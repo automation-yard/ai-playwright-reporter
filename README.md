@@ -17,11 +17,11 @@ Install the package via npm:
 npm install @automationyard/ai-playwright-reporter
 ```
 
-![image](./assets/image.png)
+![image](https://raw.githubusercontent.com/automationyard/ai-playwright-reporter/main/assets/image.png)
 
-![image](./assets/image1.png)
+![image](https://raw.githubusercontent.com/automationyard/ai-playwright-reporter/main/assets/image1.png)
 
-![image](./assets/image2.png)
+![image](https://raw.githubusercontent.com/automationyard/ai-playwright-reporter/main/assets/image2.png)
 
 ## Usage
 
