@@ -7,10 +7,21 @@
     "lib/**/*"
   ],
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/automation-yard/ai-playwright-reporter/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/automationyard/ai-playwright-reporter.git"
+    "url": "git+https://github.com/automation-yard/ai-playwright-reporter.git"
   },
+  "homepage": "https://github.com/automation-yard/ai-playwright-reporter#readme",
+  "keywords": [
+    "playwright",
+    "reporter",
+    "ai",
+    "slack",
+    "teams"
+  ],
   "scripts": {
     "build": "tsc --project tsconfig.app.json",
     "test": "vitest",
