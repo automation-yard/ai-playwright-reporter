@@ -14,7 +14,7 @@ A custom Playwright reporter that generates humorous test report summaries and s
 Install the package via npm:
 
 ```bash
-npm install @cawstudios/ai-playwright-reporter
+npm install @automationyard/ai-playwright-reporter
 ```
 
 ![image](./assets/image.png)
@@ -37,10 +37,10 @@ export default defineConfig({
   reporter: [
     ["list"],
     [
-      "@cawstudios/ai-playwright-reporter",
+      "@automationyard/ai-playwright-reporter",
       {
-        type: "openai",
-        model: "gpt-4o",
+        type: "anthropic",
+        model: "claude-3-5-sonnet-20240620",
         apiKey: "your-api-key-here",
         slackWebhookUrl: "your-slack-webhook-url-here",
         teamsWebhookUrl: "your-teams-webhook-url-here",

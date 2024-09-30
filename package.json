@@ -1,5 +1,5 @@
 {
-  "name": "@cawstudios/ai-playwright-reporter",
+  "name": "@automationyard/ai-playwright-reporter",
   "version": "1.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cawstudios/ai-playwright-reporter"
+    "url": "https://github.com/automationyard/ai-playwright-reporter"
   },
   "scripts": {
     "build": "tsc --project tsconfig.app.json",
